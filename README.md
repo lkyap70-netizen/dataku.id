@@ -1,0 +1,2 @@
+# dataku.id
+penyimpanan pribadi
